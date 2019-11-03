@@ -1,0 +1,19 @@
+{
+  "name": "ing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matvilen/ing.git",
+  "author": "Elena Matvienko <matvilenka13@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-node": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
